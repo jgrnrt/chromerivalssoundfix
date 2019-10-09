@@ -1,7 +1,6 @@
-# chromerivalssoundfix
-ChromeRivals Sound Fixes &amp; Enhancements
+#ChromeRivals Sound Fixes &amp; Enhancements
 
-Installation
+##Installation
 (Skip step 1 and 2 if you are not on Windows 10)
 
 1. Install EAX4Unified_redist_4001 & Creative Alchemy 1.45.03
@@ -9,14 +8,7 @@ Installation
 3. Drag and drop dsound.dll, dsound_aldrv.dll and alsoft.ini into your ChromeRivals directory
 4. Open alsoft.ini in the directory and customise it to your liking, it stores DSOAL settings.
 
-
-
-
-
-
-
-
-FAQ/Notes
+##FAQ/Notes
 
 I installed this mod but I don't get any sound in-game!
 Make sure your speaker settings match what's set in alsoft.ini. If you want to use 48000Hz sound output, change it to "frequency=48000Hz" and "default-hrtf=Built-In 48000hz" in alsoft.ini. (44100 & 48000 works both for me)
@@ -33,10 +25,7 @@ https://github.com/kcat/openal-soft/blob/master/alsoftrc.sample
 
 
 
-
-
-
-original links:
+##original links:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1384096547
 EAX unified, ALChemy:
 https://mega.nz/#!1OwF0QiB!QCXlgNZ5fzppQyqDse-wfjEXsWeRqzNCZlfktgH2-44
