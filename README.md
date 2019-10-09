@@ -17,17 +17,17 @@
 
 ## FAQ/Notes
 
-I installed this mod but I don't get any sound in-game!
+* I installed this mod but I don't get any sound in-game!
 Make sure your speaker settings match what's set in alsoft.ini. If you want to use 48000Hz sound output, change it to "frequency=48000Hz" and "default-hrtf=Built-In 48000hz" in alsoft.ini. (44100 & 48000 works both for me)
 
-The EAX reverb is too loud!
+* The EAX reverb is too loud!
 Unfortunately, DSOAL has a bug where it doubles or sometimes quadruples reverb sends when HRTF is active at the same time. The only fix is to adjust the boost= parameter until it sounds right. boost=-6 corresponds to half volume and boost=-12 is quarter volume.
 
-I'm getting muffled sound in-game!
+* I'm getting muffled sound in-game!
 This seems to be caused by Windows 8 and 10's audio stack. Go into your speaker properies and tick Disable all sound effects under Enhancements. Then, untick "All applications to take exclusive control" under Advanced.
 https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings-winpc/sound-is-muffled-is-there-a-fix/f8b5cf9c-3347-4036-b1a5-7dff5b1da487
 
-more config tweaks for alsoft.ini: 
+* more config tweaks for alsoft.ini: 
 https://github.com/kcat/openal-soft/blob/master/alsoftrc.sample
 
 
