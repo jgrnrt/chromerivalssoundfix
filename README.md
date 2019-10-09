@@ -26,11 +26,11 @@ https://github.com/kcat/openal-soft/blob/master/alsoftrc.sample
 
 
 ## Original Links:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1384096547
-EAX unified, ALChemy:
+* https://steamcommunity.com/sharedfiles/filedetails/?id=1384096547
+* EAX unified, ALChemy:
 https://mega.nz/#!1OwF0QiB!QCXlgNZ5fzppQyqDse-wfjEXsWeRqzNCZlfktgH2-44
 (This file may cause false positives with some antivirus programs. Don't be alarmed, it is safe. A statement from the file's creator here:
 http://forums.thedarkmod.com/index.php?/topic/18249-tutorial-how-to-setup-eax-for-tdm-on-any-soundcard/&tab=comments#comment-392915
-The restriction remover is eccessary to register your dsound.dll, so DSOAL works properly.)
+* The restriction remover is eccessary to register your dsound.dll, so DSOAL works properly.)
 FONVHRTF.3.zip (DSOAL):
 https://www.moddb.com/addons/true-3d-sound-for-headphones-hrtf-mod-v131a	
