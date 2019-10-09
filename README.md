@@ -1,5 +1,11 @@
 # ChromeRivals Sound Fixes &amp; Enhancements
 
+**This will fix:**
+* interrupting standard weapon effect sounds
+**This will enhance:**
+* overall sound
+* 3D sound/surround perception
+
 ## Installation
 (Skip step 1 and 2 if you are not on Windows 10)
 
