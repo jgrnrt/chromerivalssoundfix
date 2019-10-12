@@ -7,7 +7,7 @@
 * overall sound
 * 3D sound/surround perception
 
-**[small preview on YouTube](https://www.youtube.com/watch?v=ne9b5ftc9zQ&list=PLjLiDiBjsObIbN215B9Adhs_H84GB-FRT)**
+**[small preview on YouTube](https://youtu.be/BAoE2TniC4o)**
 
 ## Installation
 (Skip step 1 and 2 if you are not on Windows 10)
