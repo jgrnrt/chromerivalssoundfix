@@ -15,10 +15,8 @@
 1. Install EAX4Unified_redist_4001 & Creative Alchemy 1.45.03
 2. Move the CreativeALchemy14503RestrictionRemover-MST.exe to your installed Creative ALChemy directory (C:\Program Files (x86)\Creative\ALchemy), run it as administrator and click "patch".
 3. Drag and drop dsound.dll, dsound_aldrv.dll and alsoft.ini into your ChromeRivals directory
-4. Open alsoft.ini in the directory and customise it to your liking, it stores DSOAL settings.
 
 ## FAQ/Notes
-
 * I installed this mod but I don't get any sound in-game!
 Make sure your speaker settings match what's set in alsoft.ini. If you want to use 48000Hz sound output, change it to "frequency=48000Hz" and "default-hrtf=Built-In 48000hz" in alsoft.ini. (44100 & 48000 works both for me)
 
